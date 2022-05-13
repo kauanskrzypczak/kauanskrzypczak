@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é @kauanskrzypczak
+- 👀 Eu estou interessado em aprender novas linguagens 
+- 🌱 Meu contato para  email: kauan.skrzypczak@escola.pr.gov.br
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
